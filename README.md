@@ -3,8 +3,8 @@
 [![wakatime](https://wakatime.com/badge/user/330beacb-fb27-4e32-bc38-f8f521bcf832.svg)](https://wakatime.com/@330beacb-fb27-4e32-bc38-f8f521bcf832)
 
 - 🔭 I’m currently working on Mercado Libre as Ssr
-- 🌱 I’m currently learning rust & python
-- 👯 I’m looking to collaborate on Open source projects in go
+- 🌱 I’m currently learning backend with rust & python, and mobile dev with swift
+- 👯 I’m looking to collaborate on Open source projects in go & rust
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-51%20mins-blue)
