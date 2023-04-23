@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Open source projects in go & rust
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,18 +61,18 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Java** 
 
 ```text
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Java                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Java                     4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 23/04/2023 01:17:42 UTC
+ Last Updated on 23/04/2023 02:44:42 UTC
 <!--END_SECTION:waka-->
