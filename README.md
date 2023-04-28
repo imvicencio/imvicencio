@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Open source projects in go & rust
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -17,11 +17,11 @@
 
 > 📦 47.0 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2023
+> 🏆 31 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 52 Public Repositories 
+> 📜 53 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -83,5 +83,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2023 05:14:17 UTC
+ Last Updated on 28/04/2023 01:11:24 UTC
 <!--END_SECTION:waka-->
