@@ -52,15 +52,13 @@ Sunday                   117 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Go                       45 mins             █████████████████████████   99.99 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   42 mins             ████████████████████████░   94.07 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -76,5 +74,5 @@ C#                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2023 01:30:28 UTC
+ Last Updated on 13/11/2023 01:27:50 UTC
 <!--END_SECTION:waka-->
