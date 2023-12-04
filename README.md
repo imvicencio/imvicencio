@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Open source projects in go & rust
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -79,5 +79,5 @@ C#                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2023 01:30:24 UTC
+ Last Updated on 04/12/2023 01:29:16 UTC
 <!--END_SECTION:waka-->
