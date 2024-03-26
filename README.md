@@ -52,13 +52,13 @@ Sunday                   123 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-C#                       22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -74,5 +74,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2024 01:25:33 UTC
+ Last Updated on 26/03/2024 01:23:24 UTC
 <!--END_SECTION:waka-->
