@@ -52,13 +52,14 @@ Sunday                   123 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       0 secs              ██████████████████░░░░░░░   73.42 % 
+Docker                   0 secs              ███████░░░░░░░░░░░░░░░░░░   26.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -74,5 +75,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2024 01:23:24 UTC
+ Last Updated on 27/03/2024 01:24:02 UTC
 <!--END_SECTION:waka-->
