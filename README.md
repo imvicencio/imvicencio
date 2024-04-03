@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Open source projects in go & rust
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,8 +57,7 @@ JavaScript               0 secs              ░░░░░░░░░░░�
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   99.99 % 
-GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
@@ -77,5 +76,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2024 01:28:06 UTC
+ Last Updated on 03/04/2024 01:24:29 UTC
 <!--END_SECTION:waka-->
