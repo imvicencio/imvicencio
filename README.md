@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Open source projects in go & rust
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -16,8 +16,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 74.3 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -78,5 +76,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2024 01:12:59 UTC
+ Last Updated on 16/07/2024 01:12:31 UTC
 <!--END_SECTION:waka-->
