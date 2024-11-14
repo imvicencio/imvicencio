@@ -17,6 +17,8 @@
 
 > 📦 74.4 kB Used in GitHub's Storage 
  > 
+> 🏆 30 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 87 Public Repositories 
@@ -50,13 +52,16 @@ Sunday                   123 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 3 mins         ██████████████████░░░░░░░   72.96 % 
+TypeScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -72,5 +77,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2024 01:20:28 UTC
+ Last Updated on 14/11/2024 01:20:28 UTC
 <!--END_SECTION:waka-->
