@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Open source projects in go & rust
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,5 +77,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2024 01:25:27 UTC
+ Last Updated on 16/11/2024 01:23:18 UTC
 <!--END_SECTION:waka-->
