@@ -64,15 +64,15 @@ No Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 13/02/2025 01:21:19 UTC
+ Last Updated on 14/02/2025 01:20:42 UTC
 <!--END_SECTION:waka-->
