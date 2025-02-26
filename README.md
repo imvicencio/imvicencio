@@ -61,18 +61,18 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in JavaScript** 
 
 ```text
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
 C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 25/02/2025 01:23:12 UTC
+ Last Updated on 26/02/2025 01:22:43 UTC
 <!--END_SECTION:waka-->
