@@ -7,8 +7,6 @@
 - 👯 I’m looking to collaborate on Open source projects in go & rust
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.57%20million%20lines%20of%20code-blue)
@@ -74,5 +72,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 01:50:57 UTC
+ Last Updated on 03/01/2026 01:45:20 UTC
 <!--END_SECTION:waka-->
