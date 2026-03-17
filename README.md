@@ -2,9 +2,27 @@
 
 [![wakatime](https://wakatime.com/badge/user/330beacb-fb27-4e32-bc38-f8f521bcf832.svg)](https://wakatime.com/@330beacb-fb27-4e32-bc38-f8f521bcf832)
 
-- 🔭 I’m currently working on Mercado Libre as Ssr
-- 🌱 I’m currently learning backend with rust & python, and mobile dev with swift
-- 👯 I’m looking to collaborate on Open source projects in go & rust
+🧠 I design and operate observability platforms using Prometheus, Grafana, Loki, and OpenTelemetry.
+
+⚙️ I automate infrastructure and operations using Terraform, Ansible, and GitOps practices.
+
+☸️ I work with Kubernetes (GKE, Minikube) building scalable and observable systems.
+
+🌱 I’m currently learning:
+- Advanced Kubernetes (CKA path)
+- Platform Engineering (Backstage, Internal Developer Platforms)
+- Rust & Go for backend systems
+
+🚀 I’m building side projects around:
+- Observability with OpenTelemetry
+- Event-driven architectures (RabbitMQ, Kafka)
+- Microservices (Go, Java, Python)
+
+👯 I’m open to collaborating on:
+- Open source observability tools
+- Kubernetes / platform engineering projects
+
+📊 I track my coding activity with WakaTime
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2028%20mins-blue?style=flat)
